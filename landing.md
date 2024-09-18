@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: About TheraText
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Learn about TheraText .<br />offerings here.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
