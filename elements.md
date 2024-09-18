@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preview TheraText
-image: assets/images/pic11.jpg
+image: assets/images/pic11.png
 nav-menu: true
 ---
 
