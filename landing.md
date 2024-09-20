@@ -13,11 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</Here we present some of TheraText's offerings>
-		<p>Objectives: To aid therapists with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking.</p>
+			<h2>Objectives: </h2>
+		<p>To aid therapists with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking.</p>
 	</div>
-</section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -84,5 +82,3 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
-</div>
