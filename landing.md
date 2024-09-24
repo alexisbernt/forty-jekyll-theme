@@ -2,7 +2,7 @@
 title: About TheraText
 layout: landing
 description: 'Learn about TheraText <br />offerings here.'
-image: assets/images/pic11.jpg
+image: assets/images/pic11.png
 nav-menu: true
 ---
 
