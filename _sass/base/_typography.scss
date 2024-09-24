@@ -8,6 +8,9 @@
 
 	body, input, select, textarea {
 		color: _palette(fg);
+		$bg: lighten(#current-bg-color, 10%);
+		$fg: lighten(#current-fg-color, 10%);
+
 		font-family: _font(family);
 		font-size: 17pt;
 		font-weight: _font(weight);
