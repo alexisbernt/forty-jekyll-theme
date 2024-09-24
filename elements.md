@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Offerings
-image: assets/images/pic11.png
+image: assets/images/pic07.png
 nav-menu: true
 ---
 
