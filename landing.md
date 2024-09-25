@@ -13,8 +13,8 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Objectives: </h2>
-		<p>To aid therapists with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking.</p>
+			<h2>We try to do some cool things so you can do epic things: </h2>
+		<p>At TheraText, we help care providers with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking, (e) safe to use AI integration.</p>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -36,7 +36,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/demo1.png %}" alt="" data-position="top center" />
+			<img src="assets/images/demo1.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -52,7 +52,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/demo3.png %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/demo3.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,7 +73,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h2>TheraText Templates</h2>
-			<img src="{% link assets/images/demo4.png %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/demo4.png" alt="" data-position="25% 25%" />
 		</header>
 		<p>TheraText's templates go unmatched. Customized and importable templates make the notetaking process easy and efficient.</p>
 		<ul class="actions">
