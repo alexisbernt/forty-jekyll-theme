@@ -9,8 +9,8 @@ title: TheraText Solutions
 subtitle: Notetaking Software for Therapists
 email: theratext.solutions@gmail.com
 description: Radically simplifying the notetaking process for therapists, counselors, and rural care providers.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "" # Leave empty for custom domain root
+url: "https://www.theratext.site" # Use domain name
 author:
 street_address: Discovery Hall 2502 19th Ave
 city: Kearney
