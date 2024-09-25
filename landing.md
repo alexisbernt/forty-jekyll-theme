@@ -10,7 +10,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<section id="one" style="margin-bottom: 10px;">
 	<div class="inner">
 		<header class="major">
 			<h2>We try to do some cool things so you can do epic things: </h2>
