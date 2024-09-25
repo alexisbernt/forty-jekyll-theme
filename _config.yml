@@ -1,6 +1,6 @@
 # _config.yml
 
-theme: jekyll-theme-forty
+remote_theme: andrewbanchich/forty-jekyll-theme
 
 # site settings
 title: TheraText Solutions
