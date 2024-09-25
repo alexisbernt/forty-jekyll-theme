@@ -1,4 +1,6 @@
 # _config.yml
+plugins:
+  - jekyll-remote-theme
 
 remote_theme: andrewbanchich/forty-jekyll-theme
 
