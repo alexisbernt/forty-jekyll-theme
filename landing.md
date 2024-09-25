@@ -1,7 +1,7 @@
 ---
 title: About TheraText
 layout: landing
-description: 'Learn about TheraText <br />offerings here.'
+description: 'Learn about TheraText offerings here.'
 image: assets/images/pic11.png
 nav-menu: true
 ---
@@ -15,13 +15,12 @@ nav-menu: true
 		<header class="major">
 			<h2>Objectives: </h2>
 		<p>To aid therapists with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking.</p>
-	</div>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/demo5.png %}" alt="" data-position="center center" />
+			<img src="assets/images/demo5.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
