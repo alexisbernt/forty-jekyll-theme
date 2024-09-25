@@ -1,5 +1,8 @@
+# _config.yml
+
+theme: jekyll-theme-forty
+
 # site settings
-theme: forty-jekyll-theme
 title: TheraText Solutions
 subtitle: Notetaking Software for Therapists
 email: theratext.solutions@gmail.com
