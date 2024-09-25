@@ -7,8 +7,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: _palette(fg);
-		background-color: lighten(color, 10%);
+		color: lighten(_palette(fg), 10%);
 		font-family: _font(family);
 		font-size: 17pt;
 		font-weight: _font(weight);
