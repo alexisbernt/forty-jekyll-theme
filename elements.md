@@ -19,8 +19,9 @@ nav-menu: true
 <h2 id="content">What can TheraText help with?</h2>
 <p>TheraText can help therapists, counselors, and care providers with their organization and notetaking.</p>
 <a href="generic.html" class="image">
-			<img src="assets/images/notetakingGemini.jpg" alt="" data-position="center center" />
-		</a>
+    <img src="assets/images/notetakingGemini.jpg" alt="" data-position="25% 25%" />
+</a>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Notes</h3>
