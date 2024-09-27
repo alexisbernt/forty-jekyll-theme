@@ -68,7 +68,6 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 	<div class="inner">
 		<header class="major">
 			<h2>🖥️So what really is TheraText Templates?🗒️</h2>
-			<img src="assets/images/demo2.png" alt="" data-position="25% 25%" />
 		</header>
 		<p>TheraText Solutions is a notetaking software. The software is secure, organized, and keeps your data in one place.</p>
 		<ul class="actions">
