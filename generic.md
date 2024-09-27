@@ -12,7 +12,7 @@ nav-menu: true
     <style>
         /* Add margin between sections */
         section {
-            margin-top: 20px; /* Adjust the value to increase or decrease spacing */
+            margin-top: 30px; /* Adjust the value to increase or decrease spacing */
         }
     </style>
 </head>
@@ -29,7 +29,7 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>A Tour of the 🚀TheraText Solution🚀</h3>
+					<h3>A Tour of the TheraText Solution🚀</h3>
 				</header>
 				<p>This is the starting screen. The TheraText software is compatible for both practice employees and patients. Encrypted and secure sign in for both the employee portal and patient portal. Users select whether to enter the employee portal or the patient portal. This login portal keeps information and data secure.</p>
 				<ul class="actions">
@@ -49,7 +49,7 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>👩🏽‍⚕️Tailored to each Care Provider👩🏽‍⚕️</h3>
+					<h3>👩🏽‍⚕️Tailored to each Care Provider</h3>
 				</header>
 				<p>TheraText offers customizable dashboards. Navigate TheraText’s solutions by clicking the buttons in the center of the screen or by using the navigation bar to the right of the screen. </p>
 				<ul class="actions">
@@ -68,7 +68,7 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>😁Our Templates Make Your Life Easier😁</h3>
+					<h3>Our Templates Make Your Life Easier😁</h3>
 				</header>
 				<p>How does it feel when you are working? Stressful, exciting, neverending? No matter what, TheraText's templates go unmatched. TheraText offers customized and importable templates to make the notetaking process easy and efficient.</p>
 				<ul class="actions">
