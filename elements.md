@@ -20,6 +20,7 @@ nav-menu: true
 <p>TheraText can help therapists, counselors, and care providers with their organization and notetaking.</p>
 <a href="generic.html" class="image">
     <img src="assets/images/notetakingGemini.jpg" alt="" class="left-image" />
+	<img src="assets/images/organizeGemini.jpg" alt="" class="right-image" />
 </a>
 
 <div class="row">
