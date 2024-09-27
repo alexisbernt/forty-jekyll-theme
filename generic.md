@@ -5,6 +5,17 @@ description:
 image: null
 nav-menu: true
 ---
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spacing Between Sections</title>
+    <style>
+        /* Add margin between sections */
+        section {
+            margin-top: 20px; /* Adjust the value to increase or decrease spacing */
+        }
+    </style>
+</head>
 Scroll to see some of the sneak peak images of the TheraText software. The software is customizable and has a variety of features. Some examples are listed and shown below.
 
 🌟Start here!🌟 This is the starting screen. The TheraText software is compatible for both practice employees and patients. 
