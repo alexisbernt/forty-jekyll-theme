@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one" style="margin-bottom: 10px;">
 	<div class="inner">
 		<header class="major">
-			<h2>We try to do some cool things so you can do epic things: </h2>
+			<h2>🤩We try to do some cool things so you can do epic things: </h2>
 		<p>At TheraText, we help care providers with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking, (e) safe to use AI integration.</p>
 <br><br>  <!-- Adds multiple line breaks for spacing -->
 <!-- Two -->
@@ -75,7 +75,9 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h2>An Example TheraText Template</h2>
+			<br> <!-- Adds multiple line breaks for spacing -->
 			<p>Customizable and importable templates by TheraText make the notetaking process easy and efficient. Templates mean more organization and less typing for you. </p>
+			<br><br>  <!-- Adds multiple line breaks for spacing -->
 			<img src="assets/images/demo4.png" alt="" data-position="25% 25%" />
 		</header>
 		<ul class="actions">
