@@ -29,6 +29,7 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 	</section>
 
 
+
    
 	<section>
 		<a href="generic.html" class="image">
@@ -47,6 +48,8 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 		</div>
 	</section>
  
+
+   
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/demo4.png" alt="" data-position="25% 25%" />
@@ -65,6 +68,8 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 	</section>
 </section>
 
+
+   
 <!-- Three -->
 <section id="three">
 	<div class="inner">
@@ -77,5 +82,6 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 		</ul>
 	</div>
 </section>
+
 
  Objectives: To aid care providers with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking.
