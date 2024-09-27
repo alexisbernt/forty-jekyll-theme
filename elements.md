@@ -18,6 +18,9 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">What can TheraText help with?</h2>
 <p>TheraText can help therapists, counselors, and care providers with their organization and notetaking.</p>
+<a href="generic.html" class="image">
+			<img src="assets/images/notetakingGemini.jpg" alt="" data-position="center center" />
+		</a>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Notes</h3>
@@ -30,7 +33,7 @@ nav-menu: true
 </div>
 
 <!-- Lists -->
-<h3>Lists</h3>
+<h3>TheraText Things in ✨List Form✨</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
 
@@ -42,10 +45,22 @@ nav-menu: true
    			<li>Secure data storage</li>
 		</ul>
 	</div>
+ 	<div class="6u 12u$(small)">
+
+		<h4>TheraText Solutions is for: </h4>
+		<ul>
+			<li>Therapists</li>
+			<li>Counselors</li>
+			<li>Rural Care Providers</li>
+   			<li>Child Care Providers</li>
+      			<li>Care Providers for the Elderly</li>
+      			<li>In-home Care Providers</li>
+		</ul>
+	</div>
 </div>
 
 <!-- Blockquote -->
-<h3>Blockquote</h3>
+<h3>Theratext making headlines: </h3>
 <blockquote> "Medical notetaking software to prevent costly errors." -WWSB News</blockquote>
 
 </div>
