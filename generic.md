@@ -88,11 +88,9 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 			<h2>🖥️So what really is TheraText Templates?🗒️</h2>
 		</header>
 		<p>TheraText Solutions is a notetaking software. The software is secure, organized, and keeps your data in one place.</p>
+		<p> Objectives: To aid care providers with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>
-
-
- Objectives: To aid care providers with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking.
