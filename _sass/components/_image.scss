@@ -64,10 +64,10 @@ img {
 			}
 		}
 	}
-/// right image adds below 
-.right-image {
+/// left image adds below 
+.left-image {
     width: 25%; /* Reduces the image size to 1/4 of its original size */
     float: left; /* Positions the image to the right of the text */
-    margin-left: 15px; /* Adds space between the text and image */
+    margin-right: 15px; /* Adds space between the text and image */
 }
 
