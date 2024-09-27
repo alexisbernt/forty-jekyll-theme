@@ -27,7 +27,9 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 			</div>
 		</div>
 	</section>
-	
+
+
+   
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/demo3.png" alt="" data-position="top center" />
