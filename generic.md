@@ -2,26 +2,79 @@
 layout: post
 title: About
 description: 
-image: assets/images/pic01.jpg
+image: null
 nav-menu: true
 ---
-Scroll to see some of the images of the TheraText software. The software is customizable and has a wide variety of features. Some examples are listed and shown below.
+Scroll to see some of the sneak peak images of the TheraText software. The software is customizable and has a variety of features. Some examples are listed and shown below.
 
-Start here! This is the starting screen. The TheraText software is compatible for both practice employees and patients. 
-![Opening Image](assets/images/demo1.png) 
+🌟Start here!🌟 This is the starting screen. The TheraText software is compatible for both practice employees and patients. 
 
-Users select whether to enter the employee portal or the patient portal.
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/demo5.png" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The TheraText Solution</h3>
+				</header>
+				<p>Objectives: To aid therapists with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/demo1.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Login Portal</h3>
+				</header>
+				<p>Start here! This is the starting screen. The TheraText software is compatible for both practice employees and patients. Users select whether to enter the employee portal or the patient portal. This login portal keeps information and data secure. Data is encrypted within the TheraText platform with a built-in encryption system.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/demo3.png" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Tailored to each Care Provider</h3>
+				</header>
+				<p>TheraText offers customizable dashboards. Navigate TheraText’s solutions by clicking the buttons in the center of the screen or by using the navigation bar.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
 
- ![Opening Image](assets/images/demo2.png)
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>TheraText Templates</h2>
+			<img src="assets/images/demo4.png" alt="" data-position="25% 25%" />
+		</header>
+		<p>TheraText's templates go unmatched. Customized and importable templates make the notetaking process easy and efficient.</p>
+		<ul class="actions">
+			<li><a href="generic.html" class="button next">Get Started</a></li>
+		</ul>
+	</div>
+</section>
  
  Encrypted and secure sign in for both the employee portal and patient portal.
 
-![Opening Image](assets/images/demo3.png)
-
 TheraText offers customizable dashboards. Navigate TheraText’s solutions by clicking the buttons in the center of the screen or by using the navigation bar to the right of the screen. 
-
-![Opening Image](assets/images/demo4.png)
-
-![Opening Image](assets/images/demo5.png)
-
-![Opening Image](assets/images/demo6.png)
