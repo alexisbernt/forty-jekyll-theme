@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Offerings
+subtitle: Check out TheraText's Solutions
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -17,7 +18,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">What can TheraText help with?</h2>
-<p>TheraText can help therapists, counselors, and care providers with their organization and notetaking.</p>
+<p>TheraText can help small business therapists, counselors, and care providers with their organization, submission, and notetaking.</p>
 <a href="generic.html" class="image">
     <img src="assets/images/notetakingGemini.jpg" alt="" class="left-image" />
 	<img src="assets/images/organizeGemini.jpg" alt="" class="right-image" />
@@ -45,6 +46,11 @@ nav-menu: true
 			<li>Remembering client information</li>
 			<li>Therapist organization</li>
    			<li>Secure data storage</li>
+      			<li>Legal Compliance</li>
+	 		<li>Safety plans, treatment plans, goal plans</li>
+    			<li>Psychological Evaluations</li>
+       			<li>Client Intake</li>
+	  		<li>Client Communication</li>
 		</ul>
 	</div>
  	<div class="6u 12u$(small)">
