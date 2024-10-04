@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'TheraText: Notetaking for mental health providers in rural areas'
+landing-title: 'TheraText: Notetaking for mental health providers in rural areas 📝'
 description: 'TheraText Solutions: Leveraging Templating and AI Safely' 
 image: null
 author: TheraText Solutions out of Kearney, NE
