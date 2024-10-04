@@ -1,5 +1,5 @@
 ---
-title: Sneak Peak and FAQs 📝
+title: Sneak Peak and FAQs 
 layout: landing
 description: 'Learn about TheraText offerings here.'
 image: assets/images/pic11.png
