@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-description: 
+description: 'Learn more about TheraText's Progress here.'
 image: null
 nav-menu: true
 ---
