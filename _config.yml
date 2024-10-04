@@ -6,9 +6,9 @@ remote_theme: andrewbanchich/forty-jekyll-theme
 
 # site settings
 title: TheraText Solutions
-subtitle: Notetaking Software for Therapists
+subtitle: Notetaking and Submission Software
 email: theratext.solutions@gmail.com
-description: Radically simplifying the notetaking process for therapists, counselors, and rural care providers.
+description: Radically simplifying the notetaking process for care providers in rural areas
 baseurl: "" # Leave empty for custom domain root
 url: "https://www.theratext.site" # Use domain name
 author:
