@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Offerings
-subtitle: Check out TheraText's Solutions
+description: Check out TheraText's Solutions here.
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
