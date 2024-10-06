@@ -70,7 +70,7 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 				<header class="major">
 					<h3>Our Templates Make Your Life Easier😁</h3>
 				</header>
-				<p>How does it feel when you are working? Stressful, exciting, neverending? No matter what, TheraText's templates go unmatched. TheraText offers customized and importable templates to make the notetaking process easy and efficient.</p>
+				<p>TheraText offers 3 unique features. (1) TheraText offers customized and importable templates to make the notetaking process easy and efficient. These templates assist with the numerous submission processes. (2) Patient interaction. TheraText helps makes patient interaction inside and outside of the office seamless. (3) Task management. Task management includes trackers and down-the-line a chatbot feature trained for therapists that utilizes artificial intelligence.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -85,10 +85,10 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>🖥️So what really is TheraText Templates?🗒️</h2>
+			<h2>🖥️So what really is TheraText?🗒️</h2>
 		</header>
-		<p>TheraText Solutions is a notetaking software. The software is secure, organized, and keeps your data in one place.</p>
-		<p> Objectives: To aid care providers with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking.</p>
+		<p>TheraText Solutions is a software. The software is secure, organized, and keeps your data in one place.</p>
+		<p> Objectives: To aid care providers with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking, (e) patient interaction.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
