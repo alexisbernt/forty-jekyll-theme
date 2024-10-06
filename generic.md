@@ -33,7 +33,7 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 				</header>
 				<p>This is the starting screen. The TheraText software is compatible for both practice employees and patients. Encrypted and secure sign in for both the employee portal and patient portal. Users select whether to enter the employee portal or the patient portal. This login portal keeps information and data secure.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="landing.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -53,7 +53,7 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 				</header>
 				<p>TheraText offers customizable dashboards. Navigate TheraText’s solutions by clicking the buttons in the center of the screen or by using the navigation bar to the right of the screen. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="landing.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -68,11 +68,11 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Our Templates Make Your Life Easier😁</h3>
+					<h3>Our Goal = Making Your Life Easier😁</h3>
 				</header>
 				<p>TheraText offers 3 unique features. (1) TheraText offers customized and importable templates to make the notetaking process easy and efficient. These templates assist with the numerous submission processes. (2) Patient interaction. TheraText helps makes patient interaction inside and outside of the office seamless. (3) Task management. Task management includes trackers and down-the-line a chatbot feature trained for therapists that utilizes artificial intelligence.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="landing.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -90,7 +90,7 @@ Scroll to see some of the sneak peak images of the TheraText software. The softw
 		<p>TheraText Solutions is a software. The software is secure, organized, and keeps your data in one place.</p>
 		<p> Objectives: To aid care providers with (a) organization, (b) safe keeping of patient information, (c) easy billing code generation, (d) efficient note taking, (e) patient interaction.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="landing.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>
