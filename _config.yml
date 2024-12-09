@@ -9,7 +9,7 @@ title: TheraText Solutions
 subtitle: Notetaking and Submission Software
 email: theratext.solutions@gmail.com
 description: Simplifying notetaking and submission processes for care providers in rural communities 
-baseurl: "/theratext" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "www.theratext.site" # Use domain name
 author:
 street_address: Discovery Hall 2502 19th Ave
