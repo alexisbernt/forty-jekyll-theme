@@ -10,7 +10,7 @@ subtitle: Notetaking and Submission Software
 email: theratext.solutions@gmail.com
 description: Simplifying notetaking and submission processes for care providers in rural communities 
 baseurl: "/theratext.site" # the subpath of your site, e.g. /blog
-url: "https://www.theratext.site" # Use domain name
+url: "/theratext" # Use domain name
 author:
 street_address: Discovery Hall 2502 19th Ave
 city: Kearney
