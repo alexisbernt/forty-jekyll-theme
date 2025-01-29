@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'TheraText is "Exactly What Therapists Want" 📝'
+landing-title: 'TheraText is "exactly what therapists want"📝'
 description: 'TheraText Solution: Notes and billing for therapists' 
 image: null
 author: TheraText Solutions out of Kearney, NE
